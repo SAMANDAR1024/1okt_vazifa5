@@ -1,0 +1,46 @@
+input{
+    border: 2px solid blue;
+}
+.navbar1{
+   background-color: white;
+   width: 300px;
+   height: 250px;
+   margin: 0 auto;
+   padding: 15px;
+   border-radius: 3px;
+   
+}
+body{
+    background-color: aqua;
+}
+.nnn{
+    width: 285px;
+    height: 25px;
+    border-radius: 3px;
+}
+.btnn{
+    width: 293px;
+    height: 30px;
+background-color: blue;
+margin-bottom: 15px;
+border-radius: 3px;
+border: none;
+color: white;
+}
+.aa{
+    margin-left: 92px;
+    color: blue;
+}
+.btn{
+    background-color: green;
+width: 180px;
+height: 30px;
+margin-left: 55px;
+border-radius: 3px;
+border: none;
+color: white;
+}
+.sentr3{
+    text-align: center;
+    display: inline-block;
+    margin-left: 615px;
